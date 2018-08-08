@@ -177,3 +177,4 @@ exec --no-startup-id conky -c ~/.conkyrc
 exec --no-startup-id dropbox start
 exec --no-startup-id compton -cCGfF -b -i 0.70 --vsync opengl
 exec --no-startup-id udiskie
+exec --no-startup-id setxkbmap -layout us
